@@ -3,29 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01 Counting DNA Nucleotides", "Counting DNA Nucleotides\Counting DNA Nucleotides.vcxproj", "{F80C297C-58A9-4E00-B1F0-6139C86A5A68}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02 Transcribing DNA into RNA", "Transcribing DNA into RNA\Transcribing DNA into RNA.vcxproj", "{B43721E4-A761-4913-A297-C58BD921B326}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03 Complementing a Strand of DNA", "Complementing a Strand of DNA\Complementing a Strand of DNA.vcxproj", "{38017D49-4035-4DFF-B451-7D4235BF9003}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04 Rabbits and Recurrence Relations", "4 Rabbits and Recurrence Relations\4 Rabbits and Recurrence Relations.vcxproj", "{56203081-FD67-44A1-882F-3892BD0B6979}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05 Computing GC Content", "5 Computing GC Content\5 Computing GC Content.vcxproj", "{EE9CB770-B66B-4F20-8765-438B159D7EA7}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06 Counting Point Mutations", "6 Counting Point Mutations\6 Counting Point Mutations.vcxproj", "{86839D98-1DC2-4BF0-8A5C-4B15AE383E94}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07 Mendel's First Law", "7 Mendel's First Law\7 Mendel's First Law.vcxproj", "{03ABF6C7-9A37-40E8-8743-D3E34BE6BF8B}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08 Translating RNA into Protein", "8 Translating RNA into Protein\8 Translating RNA into Protein.vcxproj", "{AE2DC01B-6708-463F-9E3D-65659E5AE606}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09 Finding a Motif in DNA", "9 Finding a Motif in DNA\9 Finding a Motif in DNA.vcxproj", "{597BDE95-5897-4F52-8463-C993E485D7E7}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10 Consensus and Profile", "10 Consensus and Profile\10 Consensus and Profile.vcxproj", "{65C275CB-2767-49D4-AE67-A8B3A45FD3D4}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11 Mortal Fibonacci Rabbits", "11 Mortal Fibonacci Rabbits\11 Mortal Fibonacci Rabbits.vcxproj", "{C7E59DE9-5D32-4675-A023-007CE2535C4A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12 Overlap Graphs", "12 Overlap Graphs\12 Overlap Graphs.vcxproj", "{A44C1952-23A3-4507-9A93-18B8FE08FFA9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01 Counting DNA Nucleotides", "01 Counting DNA Nucleotides\Counting DNA Nucleotides.vcxproj", "{F80C297C-58A9-4E00-B1F0-6139C86A5A68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02 Transcribing DNA into RNA", "02 Transcribing DNA into RNA\Transcribing DNA into RNA.vcxproj", "{B43721E4-A761-4913-A297-C58BD921B326}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03 Complementing a Strand of DNA", "03 Complementing a Strand of DNA\Complementing a Strand of DNA.vcxproj", "{38017D49-4035-4DFF-B451-7D4235BF9003}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04 Rabbits and Recurrence Relations", "04 Rabbits and Recurrence Relations\4 Rabbits and Recurrence Relations.vcxproj", "{56203081-FD67-44A1-882F-3892BD0B6979}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05 Computing GC Content", "05 Computing GC Content\5 Computing GC Content.vcxproj", "{EE9CB770-B66B-4F20-8765-438B159D7EA7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06 Counting Point Mutations", "06 Counting Point Mutations\6 Counting Point Mutations.vcxproj", "{86839D98-1DC2-4BF0-8A5C-4B15AE383E94}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07 Mendel's First Law", "07 Mendel's First Law\7 Mendel's First Law.vcxproj", "{03ABF6C7-9A37-40E8-8743-D3E34BE6BF8B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08 Translating RNA into Protein", "08 Translating RNA into Protein\8 Translating RNA into Protein.vcxproj", "{AE2DC01B-6708-463F-9E3D-65659E5AE606}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09 Finding a Motif in DNA", "09 Finding a Motif in DNA\9 Finding a Motif in DNA.vcxproj", "{597BDE95-5897-4F52-8463-C993E485D7E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +33,18 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65C275CB-2767-49D4-AE67-A8B3A45FD3D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65C275CB-2767-49D4-AE67-A8B3A45FD3D4}.Debug|Win32.Build.0 = Debug|Win32
+		{65C275CB-2767-49D4-AE67-A8B3A45FD3D4}.Release|Win32.ActiveCfg = Release|Win32
+		{65C275CB-2767-49D4-AE67-A8B3A45FD3D4}.Release|Win32.Build.0 = Release|Win32
+		{C7E59DE9-5D32-4675-A023-007CE2535C4A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7E59DE9-5D32-4675-A023-007CE2535C4A}.Debug|Win32.Build.0 = Debug|Win32
+		{C7E59DE9-5D32-4675-A023-007CE2535C4A}.Release|Win32.ActiveCfg = Release|Win32
+		{C7E59DE9-5D32-4675-A023-007CE2535C4A}.Release|Win32.Build.0 = Release|Win32
+		{A44C1952-23A3-4507-9A93-18B8FE08FFA9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A44C1952-23A3-4507-9A93-18B8FE08FFA9}.Debug|Win32.Build.0 = Debug|Win32
+		{A44C1952-23A3-4507-9A93-18B8FE08FFA9}.Release|Win32.ActiveCfg = Release|Win32
+		{A44C1952-23A3-4507-9A93-18B8FE08FFA9}.Release|Win32.Build.0 = Release|Win32
 		{F80C297C-58A9-4E00-B1F0-6139C86A5A68}.Debug|Win32.ActiveCfg = Debug|Win32
 		{F80C297C-58A9-4E00-B1F0-6139C86A5A68}.Debug|Win32.Build.0 = Debug|Win32
 		{F80C297C-58A9-4E00-B1F0-6139C86A5A68}.Release|Win32.ActiveCfg = Release|Win32
@@ -69,18 +81,6 @@ Global
 		{597BDE95-5897-4F52-8463-C993E485D7E7}.Debug|Win32.Build.0 = Debug|Win32
 		{597BDE95-5897-4F52-8463-C993E485D7E7}.Release|Win32.ActiveCfg = Release|Win32
 		{597BDE95-5897-4F52-8463-C993E485D7E7}.Release|Win32.Build.0 = Release|Win32
-		{65C275CB-2767-49D4-AE67-A8B3A45FD3D4}.Debug|Win32.ActiveCfg = Debug|Win32
-		{65C275CB-2767-49D4-AE67-A8B3A45FD3D4}.Debug|Win32.Build.0 = Debug|Win32
-		{65C275CB-2767-49D4-AE67-A8B3A45FD3D4}.Release|Win32.ActiveCfg = Release|Win32
-		{65C275CB-2767-49D4-AE67-A8B3A45FD3D4}.Release|Win32.Build.0 = Release|Win32
-		{C7E59DE9-5D32-4675-A023-007CE2535C4A}.Debug|Win32.ActiveCfg = Debug|Win32
-		{C7E59DE9-5D32-4675-A023-007CE2535C4A}.Debug|Win32.Build.0 = Debug|Win32
-		{C7E59DE9-5D32-4675-A023-007CE2535C4A}.Release|Win32.ActiveCfg = Release|Win32
-		{C7E59DE9-5D32-4675-A023-007CE2535C4A}.Release|Win32.Build.0 = Release|Win32
-		{A44C1952-23A3-4507-9A93-18B8FE08FFA9}.Debug|Win32.ActiveCfg = Debug|Win32
-		{A44C1952-23A3-4507-9A93-18B8FE08FFA9}.Debug|Win32.Build.0 = Debug|Win32
-		{A44C1952-23A3-4507-9A93-18B8FE08FFA9}.Release|Win32.ActiveCfg = Release|Win32
-		{A44C1952-23A3-4507-9A93-18B8FE08FFA9}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
